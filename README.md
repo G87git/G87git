@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nzangmene Hassan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dibril Nzangmene
 ========================================================================================================================================
 
 Front-end.Web.Mobile
@@ -6,7 +6,7 @@ Front-end.Web.Mobile
 
 I code every day as a student of software engineering to create solutions for the web. 👨🏿‍💻
 
-* 🌍  I'm based in Douala
+* 🌍  I'm based in Birmingham, UK
 * 🖥️  See my portfolio at [MyCanvaPortfolio](http://https://g87code.my.canva.site)
 * ✉️  You can contact me at [nzangmenedit@gmail.com](mailto:nzangmenedit@gmail.com)
 * 🧠  I'm learning Laravel
