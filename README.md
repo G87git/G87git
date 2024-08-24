@@ -7,7 +7,7 @@ Front-end.Web.Mobile
 I code every day as a student of software engineering to create solutions for the web. 👨🏿‍💻
 
 * 🌍  I'm based in Birmingham, UK
-* 🖥️  See my portfolio at [MyCanvaPortfolio](http://https://g87code.my.canva.site)
+* 🖥️  See my portfolio at (https://dibrilnzangmene.vercel.app/)
 * ✉️  You can contact me at [nzangmenedit@gmail.com](mailto:nzangmenedit@gmail.com)
 * 🧠  I'm learning Laravel
 * 🤝  I'm open to collaborating on Web Frontend Projects
